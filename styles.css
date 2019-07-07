@@ -1,0 +1,104 @@
+/********************************** TAGS *********************************/
+
+body {background-color:#bad7df;
+margin: 0px;
+outline: none;
+font: sans-serif;
+}
+
+A:link { COLOR: #bad7df; TEXT-DECORATION: none; }
+A:visited { COLOR: #bad7df; TEXT-DECORATION: none; }
+A:active { COLOR: #bad7df; TEXT-DECORATION: none }
+A:hover { COLOR: #66bfbf; text-decoration: none;}
+
+
+
+table {background-color: white;
+
+width: 100%;
+
+
+}
+hr {background-color:#f6f6f6;
+border: none;
+height: 3px;
+width: 100%;
+margin: 0;
+margin-top: 0;
+margin-bottom:  0;
+ }
+ h1 { background-color: white;
+   height: 25px;
+   color: white;
+   margin-top: 0px;
+   margin-left: 50px;
+   font-size: 170px;
+   text-align: left;
+   position:absolute;
+ }
+
+ h2 {background-color: white;
+width: 100%;
+   color: #bad7df;
+   margin: 0px;}
+
+   h3 {
+width: 100%;
+     color: white;
+     margin: 0px;}
+
+     h4 {
+width: 50%;
+       color: white;
+       margin: 0px;}
+
+       h5 {
+width: 50%;
+         color: white;
+         margin: 0px;}
+
+p {color: #f6f6f6;
+
+  font-size: 20px;
+
+}
+img {
+display: block;
+  outline-offset: 0px; outline: none;  outline-width: 0px;border-width: 0px;bottom: 0px;padding: none;box-shadow: 0px;
+border-color: white;
+ border: 0rem;
+  outline: 0rem;
+  box-shadow: 0 0 0 0;
+  border-radius: 0px;
+  margin: 0;
+  padding: 0rem;
+  outline-offset: 0rem;
+
+}
+
+/********************************** CLASSES *********************************/
+.topright {
+  text-align:right;
+  padding:35px}
+
+.topleft {position: fixed;}
+
+.subtitle {font-size: 50px;
+  background-color: #66bfbf;
+  color: white;
+text-align: left;
+width: 94%;
+margin-left: 15px;
+height: 70px;
+
+}
+
+.download {text-align: center;}
+
+.infotable {width: 94%;
+margin-left: 15px;
+font-size: 20px;
+color: #66bfbf;
+}
+
+.button {font-size: 80px;width: 100px;height: 70px;}
