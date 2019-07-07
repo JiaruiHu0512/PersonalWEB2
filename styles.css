@@ -4,6 +4,7 @@ body {background-color:#bad7df;
 margin: 0px;
 outline: none;
 font: sans-serif;
+font-family: sans-serif;
 }
 
 A:link { COLOR: #bad7df; TEXT-DECORATION: none; }
